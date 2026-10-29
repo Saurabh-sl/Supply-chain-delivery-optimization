@@ -20,7 +20,7 @@ Analyzed 96K+ orders to reduce late deliveries and improve logistics.
 
 ## 📁 Files
 - `Supply_Chain&Delivery_Optimization.ipynb` - Full EDA & Analysis
-- `dashboard.png` - Power BI Dashboard
+- `Dashboard.png` - Power BI Dashboard
 
 ## 🚀 How to Run
 1. Clone repo
